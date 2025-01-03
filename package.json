@@ -1,0 +1,38 @@
+{
+  "name": "food_app",
+  "version": "1.0.0",
+  "description": "\"food ordering app\"",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuchiVerma2004/Prcatice_project.git"
+  },
+  "keywords": [
+    "order"
+  ],
+  "author": "\"ruchi Verma\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuchiVerma2004/Prcatice_project/issues"
+  },
+  "homepage": "https://github.com/RuchiVerma2004/Prcatice_project#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-router-dom": "^7.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "autoprefixer": "^10.4.20",
+    "parcel": "^2.13.3",
+    "postcss": "^8.4.49",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.17"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
